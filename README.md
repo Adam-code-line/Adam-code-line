@@ -68,17 +68,18 @@
 ## 🧰 技术偏好
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue-42b883?logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
 </p>
+
+<!-- 如果你确认在 SilentFlow 使用了 Flutter，可以把下面这一行取消注释显示 Flutter 徽章 -->
+<!-- <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" /> -->
 
 ---
 
