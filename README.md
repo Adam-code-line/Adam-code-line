@@ -56,7 +56,7 @@
 <div align="center">
 
 <!-- 周统计卡片（最近 7 天）。若你的 WakaTime 用户名不是 Adam-code-line，请改为你的真实用户名 -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adam-code-line&layout=compact&theme=radical" height="300" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adam_code_line&layout=compact&theme=radical" height="300" />
 
 <!-- Donut（可选）：把下面链接换成你在 WakaTime Share 生成的公开 svg 链接后，去掉注释即可显示 -->
 <!-- <img src="https://wakatime.com/share/@your_wakatime_username/your_shared_chart_id.svg" width="720" /> -->
