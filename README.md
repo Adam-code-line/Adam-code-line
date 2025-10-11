@@ -8,11 +8,14 @@
 [![Stars](https://img.shields.io/github/stars/Adam-code-line?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/Adam-code-line?tab=repositories)
 <img src="https://komarev.com/ghpvc/?username=Adam-code-line&color=blueviolet" alt="profile views"/>
 
+<!-- Blog badge -->
+[![Blog](https://img.shields.io/badge/Blog-Visit-0b5fff?logo=githubpages&logoColor=white)](https://adam-code-line.github.io/)
+
 </div>
 
 ## 🔭 最近在做
 - 工作流与自动化：把重复性的事情产品化、流程化
-- 团队/后端服务：服务治理、接口设计、鉴权、数据与缓存
+- 团队/后端服务：服务治理、接口治理、鉴权、数据与缓存
 - 创作与博客：工程知识体系化沉淀
 
 > 欢迎在我的仓库里提 Issue 或 PR 一起完善
@@ -84,6 +87,7 @@
 ---
 
 ## 📫 联系方式
+- 博客: https://adam-code-line.github.io/
 - GitHub: [Adam-code-line](https://github.com/Adam-code-line)
 - 也欢迎在任意仓库提 Issue 与我交流
 
