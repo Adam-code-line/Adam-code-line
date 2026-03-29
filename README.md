@@ -13,29 +13,30 @@
 ---
 
 ### 💻 核心技术栈 / Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,dart,ts,js,cpp,vue,flutter,cmake,html,css,github,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=dart,ts,js,cpp,vue,flutter,html,css,github,git,mysql,redis,docker,linux&perline=8" />
 </div>
 
 ---
 
-### 📊 开发者仪表盘 / Dashboard
-
+### 📈 活动热力图 / Contribution Graph
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adam-code-line&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-code-line&layout=donut&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adam-code-line&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </div>
 
+---
+
+### 📊 数据面板 / Dashboard
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Adam-code-line&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adam_code_line&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Adam-code-line&cc=0b5fff&tc=7AA2F7&ic=7AA2F7&bc=00000000" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Adam-code-line&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adam-code-line&theme=tokyonight&row=1&column=7&no-frame=true" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=Adam-code-line&label=PROFILE+VIEWS&color=7AA2F7&style=flat-square" />
 </div>
 
 ---
