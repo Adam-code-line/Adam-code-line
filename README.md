@@ -23,13 +23,13 @@
 ### 📊 开发者仪表盘 / Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adam-code-line&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-code-line&layout=donut&theme=tokyonight&hide_border=true" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adam-code-line&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-code-line&layout=donut&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Adam-code-line&theme=tokyonight&hide_border=true" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adam_code_line&layout=compact&theme=tokyonight&hide_border=true" height="185" />
+  <img src="https://streak-stats.demolab.com?user=Adam-code-line&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adam_code_line&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 <br>
