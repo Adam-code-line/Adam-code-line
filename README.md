@@ -13,20 +13,22 @@
 <table align="center">
   <tr>
     <td width="55%" valign="top">
-      
-      ### 🙋‍♂️ 个人简介
-      * 🚀 **核心定位**：致力于构建**自动化工作流**、内容平台与团队协作工具，追求极致的落地效率。
-      * ⚙️ **工程实践**：深耕服务治理、接口鉴权、高性能缓存与数据处理。
-      * ✍️ **知识沉淀**：坚持体系化输出，在博客记录工程实践中的坑与路。
-      * 💬 **交流暗号**：欢迎在 Issue 中碰撞想法，或者通过博客找到我。
 
-      ### 🧰 技术栈
-      `Go` `Dart` `TypeScript` `JavaScript` `C/C++`
-      `Vue.js` `Flutter` `CMake` `Workflow Automation`
-    </td>
-    <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-code-line&layout=donut&theme=radical&hide_border=true" width="100%" alt="Top Langs" />
-    </td>
+### 🙋‍♂️ 个人简介
+
+* 🚀 **核心定位**：致力于构建**自动化工作流**、内容平台与团队协作工具，追求极致的落地效率。
+* ⚙️ **工程实践**：深耕服务治理、接口鉴权、高性能缓存与数据处理。
+* ✍️ **知识沉淀**：坚持体系化输出，在博客记录工程实践中的坑与路。
+* 💬 **交流暗号**：欢迎在 Issue 中碰撞想法。
+
+#### 🧰 技术栈
+`Go` `Dart` `TypeScript` `JavaScript` `C/C++` <br>
+`Vue.js` `Flutter` `CMake` `Workflow`
+
+   </td>
+   <td width="45%" align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-code-line&layout=donut&theme=radical&hide_border=true" width="100%" />
+   </td>
   </tr>
 </table>
 
@@ -49,6 +51,5 @@
 ---
 
 <div align="center">
-  <p><i>"Talk is cheap. Show me the code."</i></p>
-  <img src="https://raw.githubusercontent.com/Adam-code-line/Adam-code-line/main/path/to/your/footer-animation.gif" width="100%" /> <p>感谢来访！如果我的开源项目对你有启发，记得点个 Star ⭐</p>
+  <p>感谢来访！如果这些项目对你有启发，欢迎点个 Star ⭐</p>
 </div>
